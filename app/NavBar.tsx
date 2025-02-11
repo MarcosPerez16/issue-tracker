@@ -15,8 +15,6 @@ import {
   Text,
 } from '@radix-ui/themes';
 
-//TESTING REVERT
-
 const NavBar = () => {
   return (
     <nav className='border-b mb-5 px-5 py-3'>
