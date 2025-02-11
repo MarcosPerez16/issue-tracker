@@ -14,7 +14,7 @@ import {
   Flex,
   Text,
 } from '@radix-ui/themes';
-//Testing revert command
+
 const NavBar = () => {
   return (
     <nav className='border-b mb-5 px-5 py-3'>
